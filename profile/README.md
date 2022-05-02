@@ -1,12 +1,3 @@
-## Hi there 👋
+Ulster County Information Services (UCIS) provides technical guidance, expertise and support in procuring, managing and securing the County's IT and telecommunications infrastructure. 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+UCIS serves the broader community by extending support for the County’s Enterprise Public Safety System to local police, fire, and EMS; generation of village, school and general tax bills; and providing access to Geographic Information Systems (GIS) and Real Property information to outside entities.
